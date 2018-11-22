@@ -1,5 +1,7 @@
 package fordon1;
 
+//Ny kommentar
+//För att kolla vad som händer i Git
 public interface Fordon {
 	//blir automatiskt public abstract
 	void skriv();
